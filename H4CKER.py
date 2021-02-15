@@ -27,6 +27,9 @@ cprint(figlet_format('TOOL', font='starwars'),
 name = input("ENETER YOUR NAME : ")
 print("\n")
 
+if name == 'suraj' or name == 'SURAJ' :
+	print("YOU ARE THE SUPER PRIVILLAGE USER YOU HAVE SOME SPECIAL      POWER  ")
+print("\n")
 
 
 print("WELCOME" , name )
@@ -57,7 +60,7 @@ print(" 👇")
 
 print("\n")
 
-print(" apt update && apt upgrade && pkg install git && pkg install python && pkg install python2 && cd $HOME && git clone https://github.com/sqlmapproject/sqlmap.git && cd sqlmap && python2 sqlmap.py ")
+print(" apt u:pdate && apt upgrade && pkg install git && pkg install python && pkg install python2 && cd $HOME && git clone https://github.com/sqlmapproject/sqlmap.git && cd sqlmap && python2 sqlmap.py ")
 
 
 print("\n")
@@ -74,9 +77,7 @@ print("\n")
 print("pkg update && pkg upgrade && cd $HOME && pkg install git curl wget nmap -y && curl -LO raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh && chmod 777 metasploit.sh && ./metasploit.sh" )
 print("\n\n")
 
-print("____________________")
-print("    COMIG SOON")
-print("_____________________")
+
 
 print("TO UPDATE PACKAGES 👇 ")
 print("\n")
@@ -102,9 +103,28 @@ import os
 stream = os.popen('echo Returned output')
 output = stream.read()
 output
+os.system('apt update && apt upgrade && pkg install git && pkg install python && pkg install python2 && cd $HOME && git clone https://github.com/sqlmapproject/sqlmap.git && cd sqlmap && python2 sqlmap.py')
+import os
+stream = os.popen('echo Returned output')
+output = stream.read()
+output
+os.system('apt update && apt upgrade && pkg install git && pkg install python && pkg install python2 && cd $HOME && git clone https://github.com/sqlmapproject/sqlmap.git && cd sqlmap && python2 sqlmap.py')
+import os
+stream = os.popen('echo Returned output')
+output = stream.read()
+output
+os.system('pkg install cmatrix && cmatrix')
+import os
+stream = os.popen('echo Returned output')
+output = stream.read()
+output
 
 if  B == 'N' or B == 'n' :
 	print("THANKS FOR USING OUR TOOL IT'S UNDER MAINTAINANCE ... Coming Soon....")
+	print("____________________")
+print("    COMIG SOON")
+print("_____________________")
+	
 
 
 	
