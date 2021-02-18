@@ -15,4 +15,8 @@ pip3 install pyfiglet
 
 pip3 install colorama
 
-git clone 
+git clone https://github.com/boss-ki/beta-H4CKER.git
+
+cd beta-H4CKER
+
+python3 beta H4CKER.py
