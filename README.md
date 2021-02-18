@@ -19,4 +19,4 @@ git clone https://github.com/boss-ki/beta-H4CKER.git
 
 cd beta-H4CKER
 
-python3 beta H4CKER.py
+python3 H4CKER.py
