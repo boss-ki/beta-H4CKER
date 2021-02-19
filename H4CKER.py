@@ -60,7 +60,7 @@ print(" 👇")
 
 print("\n")
 
-print(" apt u:pdate && apt upgrade && pkg install git && pkg install python && pkg install python2 && cd $HOME && git clone https://github.com/sqlmapproject/sqlmap.git && cd sqlmap && python2 sqlmap.py ")
+print(" apt update && apt upgrade && pkg install git && pkg install python && pkg install python2 && cd $HOME && git clone https://github.com/sqlmapproject/sqlmap.git && cd sqlmap && python2 sqlmap.py ")
 
 
 print("\n")
